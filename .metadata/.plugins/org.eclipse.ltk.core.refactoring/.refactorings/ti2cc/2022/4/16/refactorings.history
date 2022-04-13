@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;01ConexaoPostgres&apos; to &apos;maven.demo&apos;&#x0D;&#x0A;- Original project: &apos;ti2cc&apos;&#x0D;&#x0A;- Destination element: &apos;maven.demo&apos;&#x0D;&#x0A;- Original element: &apos;01ConexaoPostgres&apos;" description="Copy folder" destination="=maven.demo" element1="fonte-antigo/bancodedados/01ConexaoPostgres" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1649818254917" units="0" version="1.0"/>
+</session>
